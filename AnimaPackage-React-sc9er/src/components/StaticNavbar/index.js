@@ -1,1 +1,0 @@
-export { StaticNavbar } from "./StaticNavbar";

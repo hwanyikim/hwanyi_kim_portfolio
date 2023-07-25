@@ -1,1 +1,0 @@
-export { SendingEmailButton } from "./SendingEmailButton";

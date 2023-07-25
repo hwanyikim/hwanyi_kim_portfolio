@@ -1,0 +1,64 @@
+.vew-animation-btn {
+  height: 50px;
+  left: 20px;
+  position: relative;
+  width: 483px;
+}
+
+.vew-animation-btn .rectangle {
+  height: 29px;
+  left: -3172px;
+  position: absolute;
+  top: -1292px;
+  width: 461px;
+}
+
+.vew-animation-btn .view-animation-works {
+  color: var(--black);
+  font-family: var(--lexend-40px-regular-font-family);
+  font-size: var(--lexend-40px-regular-font-size);
+  font-style: var(--lexend-40px-regular-font-style);
+  font-weight: var(--lexend-40px-regular-font-weight);
+  left: 22px;
+  letter-spacing: var(--lexend-40px-regular-letter-spacing);
+  line-height: var(--lexend-40px-regular-line-height);
+  position: absolute;
+  top: -1px;
+}
+
+.vew-animation-btn .overlap-group {
+  height: 51px;
+  left: 22px;
+  position: relative;
+  top: -1px;
+  width: 459px;
+}
+
+.vew-animation-btn .img {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 459px;
+}
+
+.vew-animation-btn .div {
+  color: var(--black);
+  font-family: var(--lexend-40px-regular-font-family);
+  font-size: var(--lexend-40px-regular-font-size);
+  font-style: var(--lexend-40px-regular-font-style);
+  font-weight: var(--lexend-40px-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--lexend-40px-regular-letter-spacing);
+  line-height: var(--lexend-40px-regular-line-height);
+  position: absolute;
+  top: 0;
+}
+
+.vew-animation-btn.property-1-0-hover-state {
+  top: 90px;
+}
+
+.vew-animation-btn.property-1-0-default-state {
+  top: 20px;
+}

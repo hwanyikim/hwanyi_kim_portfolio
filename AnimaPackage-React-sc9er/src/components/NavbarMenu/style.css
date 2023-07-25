@@ -1,0 +1,35 @@
+.navbar-menu {
+  height: 23px;
+  left: 20px;
+  position: relative;
+  width: 56px;
+}
+
+.navbar-menu .home-2 {
+  font-family: var(--ubuntu-20px-medium-font-family);
+  font-size: var(--ubuntu-20px-medium-font-size);
+  font-style: var(--ubuntu-20px-medium-font-style);
+  font-weight: var(--ubuntu-20px-medium-font-weight);
+  left: 0;
+  letter-spacing: var(--ubuntu-20px-medium-letter-spacing);
+  line-height: var(--ubuntu-20px-medium-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.navbar-menu.property-1-1-hover-state {
+  top: 63px;
+}
+
+.navbar-menu.property-1-1-default-state {
+  top: 20px;
+}
+
+.navbar-menu.property-1-1-hover-state .home-2 {
+  color: var(--dark-sky-blue);
+}
+
+.navbar-menu.property-1-1-default-state .home-2 {
+  color: var(--black);
+}

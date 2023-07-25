@@ -1,0 +1,1125 @@
+.portfolio-UI-design {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portfolio-UI-design .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 7170px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-UI-design .footer {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(205.59, 228.07, 229.5, 0.25) 0%, rgb(205.59, 228.07, 229.5) 100%);
+  background-color: transparent;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 608px 0px;
+  height: 300px;
+  left: 0;
+  mix-blend-mode: normal;
+  padding: 99px;
+  position: absolute;
+  top: 6870px;
+  width: 1440px;
+}
+
+.portfolio-UI-design .frame-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .text-wrapper-5 {
+  color: var(--dark-green);
+  font-family: var(--lexend-40px-semibold-font-family);
+  font-size: var(--lexend-40px-semibold-font-size);
+  font-style: var(--lexend-40px-semibold-font-style);
+  font-weight: var(--lexend-40px-semibold-font-weight);
+  letter-spacing: var(--lexend-40px-semibold-letter-spacing);
+  line-height: var(--lexend-40px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .menu-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .menu-instance {
+  left: unset !important;
+  top: unset !important;
+  width: 49px !important;
+}
+
+.portfolio-UI-design .menu-3 {
+  width: 52px !important;
+}
+
+.portfolio-UI-design .menu-4 {
+  left: unset !important;
+  top: unset !important;
+  width: 52px !important;
+}
+
+.portfolio-UI-design .menu-5 {
+  width: 55px !important;
+}
+
+.portfolio-UI-design .menu-6 {
+  left: unset !important;
+  top: unset !important;
+  width: 76px !important;
+}
+
+.portfolio-UI-design .menu-7 {
+  width: 81px !important;
+}
+
+.portfolio-UI-design .menu-8 {
+  left: unset !important;
+  top: unset !important;
+  width: 25px !important;
+}
+
+.portfolio-UI-design .menu-9 {
+  width: 27px !important;
+}
+
+.portfolio-UI-design .menu-10 {
+  left: unset !important;
+  top: unset !important;
+  width: 44px !important;
+}
+
+.portfolio-UI-design .menu-11 {
+  width: 47px !important;
+}
+
+.portfolio-UI-design .menu-12 {
+  left: unset !important;
+  top: unset !important;
+  width: 66px !important;
+}
+
+.portfolio-UI-design .menu-13 {
+  width: 70px !important;
+}
+
+.portfolio-UI-design .frame-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: flex-end;
+  padding: 0px 0px 0px 180px;
+  position: relative;
+  width: 237px;
+}
+
+.portfolio-UI-design .linkedin-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.portfolio-UI-design .exclude {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.portfolio-UI-design .contact {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: 237px;
+}
+
+.portfolio-UI-design .text-wrapper-6 {
+  color: var(--dark-green);
+  font-family: var(--ubuntu-20px-medium-font-family);
+  font-size: var(--ubuntu-20px-medium-font-size);
+  font-style: var(--ubuntu-20px-medium-font-style);
+  font-weight: var(--ubuntu-20px-medium-font-weight);
+  letter-spacing: var(--ubuntu-20px-medium-letter-spacing);
+  line-height: var(--ubuntu-20px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-UI-design .text-wrapper-7 {
+  color: var(--dark-green);
+  font-family: var(--ubuntu-20px-medium-font-family);
+  font-size: var(--ubuntu-20px-medium-font-size);
+  font-style: var(--ubuntu-20px-medium-font-style);
+  font-weight: var(--ubuntu-20px-medium-font-weight);
+  letter-spacing: var(--ubuntu-20px-medium-letter-spacing);
+  line-height: var(--ubuntu-20px-medium-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-UI-design .overlap-2 {
+  height: 959px;
+  left: 0;
+  position: absolute;
+  top: 5910px;
+  width: 1440px;
+}
+
+.portfolio-UI-design .frame-wrapper {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 23px;
+  left: 0;
+  padding: 134px 528px;
+  position: absolute;
+  top: 480px;
+}
+
+.portfolio-UI-design .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 23px;
+  position: relative;
+}
+
+.portfolio-UI-design .text-wrapper-8 {
+  color: var(--black);
+  font-family: var(--lexend-40px-semibold-font-family);
+  font-size: var(--lexend-40px-semibold-font-size);
+  font-style: var(--lexend-40px-semibold-font-style);
+  font-weight: var(--lexend-40px-semibold-font-weight);
+  letter-spacing: var(--lexend-40px-semibold-letter-spacing);
+  line-height: var(--lexend-40px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .text-wrapper-9 {
+  color: var(--black);
+  font-family: var(--lexend-20px-medium-font-family);
+  font-size: var(--lexend-20px-medium-font-size);
+  font-style: var(--lexend-20px-medium-font-style);
+  font-weight: var(--lexend-20px-medium-font-weight);
+  letter-spacing: var(--lexend-20px-medium-letter-spacing);
+  line-height: var(--lexend-20px-medium-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .sending-email-button-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.portfolio-UI-design .skills {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 102px 50px;
+  left: 0;
+  padding: 121px 127px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.portfolio-UI-design .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.portfolio-UI-design .text-wrapper-10 {
+  color: var(--black);
+  font-family: var(--lexend-40px-regular-font-family);
+  font-size: var(--lexend-40px-regular-font-size);
+  font-style: var(--lexend-40px-regular-font-style);
+  font-weight: var(--lexend-40px-regular-font-weight);
+  letter-spacing: var(--lexend-40px-regular-letter-spacing);
+  line-height: var(--lexend-40px-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .frame-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 102px 53px;
+  position: relative;
+  width: 1186px;
+}
+
+.portfolio-UI-design .UI-design {
+  height: 43.12px;
+  position: relative;
+  width: 222px;
+}
+
+.portfolio-UI-design .text-wrapper-11 {
+  color: var(--dark-green);
+  font-family: var(--ubuntu-20px-medium-font-family);
+  font-size: var(--ubuntu-20px-medium-font-size);
+  font-style: var(--ubuntu-20px-medium-font-style);
+  font-weight: var(--ubuntu-20px-medium-font-weight);
+  left: 0;
+  letter-spacing: var(--ubuntu-20px-medium-letter-spacing);
+  line-height: var(--ubuntu-20px-medium-line-height);
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.portfolio-UI-design .div-wrapper {
+  background-color: var(--grey-blue);
+  border-radius: 10.5px;
+  height: 15px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.portfolio-UI-design .frame-10 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 100px 0px 0px 100px;
+  height: 15px;
+  width: 190px;
+}
+
+.portfolio-UI-design .overlap-group-3 {
+  background-color: #a9c8ca;
+  border-radius: 10.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.portfolio-UI-design .frame-11 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px 0px 0px 10.5px;
+  height: 15px;
+  width: 190px;
+}
+
+.portfolio-UI-design .frame-12 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px 0px 0px 10.5px;
+  height: 15px;
+  width: 170px;
+}
+
+.portfolio-UI-design .UI-design-2 {
+  height: 43.12px;
+  margin-right: -2px;
+  position: relative;
+  width: 222px;
+}
+
+.portfolio-UI-design .frame-13 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px 0px 0px 10.5px;
+  height: 15px;
+  width: 150px;
+}
+
+.portfolio-UI-design .frame-14 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px 0px 0px 10.5px;
+  height: 15px;
+  width: 180px;
+}
+
+.portfolio-UI-design .frame-15 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px 0px 0px 10.5px;
+  height: 15px;
+  width: 120px;
+}
+
+.portfolio-UI-design .overlap-3 {
+  background-color: #cde4e5;
+  border-radius: 10.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.portfolio-UI-design .frame-16 {
+  background: linear-gradient(180deg, rgb(47, 81, 91) 0%, rgba(47, 81, 91, 0.5) 100%);
+  border-radius: 10.5px;
+  height: 15px;
+}
+
+.portfolio-UI-design .illustration-and {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 400px;
+  height: 360px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 1px 0px;
+  position: absolute;
+  top: 5550px;
+  width: 1440px;
+}
+
+.portfolio-UI-design .vew-animation-btn-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  margin-left: -0.5px;
+  padding: 0px 0px 0px 100px;
+  position: relative;
+  width: 545px;
+}
+
+.portfolio-UI-design .vew-animation-btn-instance {
+  left: unset !important;
+  margin-left: -19px !important;
+  margin-right: -19px !important;
+  top: unset !important;
+}
+
+.portfolio-UI-design .vew-animation-btn-2 {
+  left: 1474px !important;
+  top: 1536px !important;
+}
+
+.portfolio-UI-design .frame-17 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -0.5px;
+  margin-top: -0.5px;
+  padding: 235px 0px 0px;
+  position: relative;
+  width: 496px;
+}
+
+.portfolio-UI-design .ellipse-4 {
+  background: linear-gradient(180deg, rgb(205.59, 228.07, 229.5) 0%, rgba(205.59, 228.07, 229.5, 0.3) 100%);
+  border-radius: 62px;
+  height: 124px;
+  position: relative;
+  width: 124px;
+}
+
+.portfolio-UI-design .ellipse-5 {
+  background: linear-gradient(180deg, rgb(227.36, 240.12, 211.11) 0%, rgba(227.36, 240.12, 211.11, 0.3) 100%);
+  border-radius: 62px;
+  height: 124px;
+  position: relative;
+  width: 124px;
+}
+
+.portfolio-UI-design .ellipse-6 {
+  background: linear-gradient(180deg, rgb(248, 242, 221) 0%, rgba(248, 242, 221, 0.5) 100%);
+  border-radius: 62px;
+  height: 124px;
+  position: relative;
+  width: 124px;
+}
+
+.portfolio-UI-design .portfolio {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 50px;
+  left: 0;
+  padding: 100px;
+  position: absolute;
+  top: 1800px;
+}
+
+.portfolio-UI-design .projects {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.portfolio-UI-design .kim-sunglasses {
+  background: linear-gradient(180deg, rgb(103, 103, 103) 0%, rgba(103, 103, 103, 0.5) 51.59%);
+  border-radius: 20px;
+  height: 660px;
+  overflow: hidden;
+  position: relative;
+  width: 1240px;
+}
+
+.portfolio-UI-design .frame-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 50px;
+  position: absolute;
+  top: 232px;
+}
+
+.portfolio-UI-design .text-wrapper-12 {
+  color: var(--white);
+  font-family: var(--lexend-40px-semibold-font-family);
+  font-size: var(--lexend-40px-semibold-font-size);
+  font-style: var(--lexend-40px-semibold-font-style);
+  font-weight: var(--lexend-40px-semibold-font-weight);
+  letter-spacing: var(--lexend-40px-semibold-letter-spacing);
+  line-height: var(--lexend-40px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .text-wrapper-13 {
+  color: var(--white);
+  font-family: var(--ubuntu-20px-regular-font-family);
+  font-size: var(--ubuntu-20px-regular-font-size);
+  font-style: var(--ubuntu-20px-regular-font-style);
+  font-weight: var(--ubuntu-20px-regular-font-weight);
+  letter-spacing: var(--ubuntu-20px-regular-letter-spacing);
+  line-height: var(--ubuntu-20px-regular-line-height);
+  position: relative;
+  width: 357px;
+}
+
+.portfolio-UI-design .frame-19 {
+  align-items: center;
+  background-color: #4e4e4e;
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .text-wrapper-14 {
+  color: #ffffff;
+  font-family: var(--lexend-16px-medium-font-family);
+  font-size: var(--lexend-16px-medium-font-size);
+  font-style: var(--lexend-16px-medium-font-style);
+  font-weight: var(--lexend-16px-medium-font-weight);
+  letter-spacing: var(--lexend-16px-medium-letter-spacing);
+  line-height: var(--lexend-16px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .group {
+  height: 584px;
+  left: 465px;
+  position: absolute;
+  top: 30px;
+  width: 735px;
+}
+
+.portfolio-UI-design .overlap-group-4 {
+  height: 584px;
+  position: relative;
+}
+
+.portfolio-UI-design .frame-20 {
+  background-image: url(../../../static/img/frame-43-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px 5px #00000040;
+  height: 336px;
+  left: 213px;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.portfolio-UI-design .frame-21 {
+  background-image: url(../../../static/img/frame-40-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px 5px #00000040;
+  height: 336px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.portfolio-UI-design .iphone-pro-max {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 120px;
+  overflow: hidden;
+  position: absolute;
+  top: 245px;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-22 {
+  background-image: url(../../../static/img/frame-45-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .iphone-pro-max-2 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 293px;
+  overflow: hidden;
+  position: absolute;
+  top: 245px;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-23 {
+  background-image: url(../../../static/img/frame-45-11.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .iphone-pro-max-3 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 466px;
+  overflow: hidden;
+  position: absolute;
+  top: 245px;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-24 {
+  background-image: url(../../../static/img/frame-45-10.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .easy-booking {
+  background-image: url(../../../static/img/property-1-defaultstate-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  height: 660px;
+  overflow: hidden;
+  position: relative;
+  width: 1240px;
+}
+
+.portfolio-UI-design .overlap-4 {
+  -webkit-backdrop-filter: blur(3px) brightness(100%);
+  backdrop-filter: blur(3px) brightness(100%);
+  background-color: #3131314c;
+  border-radius: 10px;
+  height: 660px;
+  position: relative;
+}
+
+.portfolio-UI-design .overlap-group-wrapper {
+  height: 561px;
+  left: 480px;
+  position: absolute;
+  top: 49px;
+  width: 720px;
+}
+
+.portfolio-UI-design .overlap-group-5 {
+  height: 561px;
+  position: relative;
+}
+
+.portfolio-UI-design .frame-25 {
+  background-image: url(../../../static/img/frame-43-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: var(--drop-shadow1);
+  height: 561px;
+  left: 277px;
+  position: absolute;
+  top: 0;
+  width: 443px;
+}
+
+.portfolio-UI-design .frame-26 {
+  background-image: url(../../../static/img/frame-44-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px 15px #00000040;
+  height: 561px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.portfolio-UI-design .frame-27 {
+  align-items: center;
+  background-color: #2f4d6c;
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .little-lemon {
+  background-color: #52615c;
+  border-radius: 20px;
+  height: 660px;
+  overflow: hidden;
+  position: relative;
+  width: 1240px;
+}
+
+.portfolio-UI-design .frame-28 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 821px;
+  position: absolute;
+  top: 197px;
+}
+
+.portfolio-UI-design .designing-mobile {
+  color: var(--white);
+  font-family: var(--ubuntu-20px-regular-font-family);
+  font-size: var(--ubuntu-20px-regular-font-size);
+  font-style: var(--ubuntu-20px-regular-font-style);
+  font-weight: var(--ubuntu-20px-regular-font-weight);
+  letter-spacing: var(--ubuntu-20px-regular-letter-spacing);
+  line-height: var(--ubuntu-20px-regular-line-height);
+  position: relative;
+  width: 369px;
+}
+
+.portfolio-UI-design .frame-29 {
+  align-items: center;
+  background-color: #74847f;
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .group-2 {
+  height: 455px;
+  left: 76px;
+  position: absolute;
+  top: 86px;
+  width: 676px;
+}
+
+.portfolio-UI-design .iphone-pro-max-4 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-30 {
+  background-image: url(../../../static/img/frame-45-20.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .iphone-pro-max-5 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 173px;
+  overflow: hidden;
+  position: absolute;
+  top: 116px;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-31 {
+  background-image: url(../../../static/img/frame-45-19.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .iphone-pro-max-6 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 346px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-32 {
+  background-image: url(../../../static/img/frame-45-18.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .iphone-pro-max-7 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: var(--drop-shadow1);
+  height: 339px;
+  left: 519px;
+  overflow: hidden;
+  position: absolute;
+  top: 116px;
+  width: 157px;
+}
+
+.portfolio-UI-design .frame-33 {
+  background-image: url(../../../static/img/frame-45-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 17px;
+  height: 332px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 149px;
+}
+
+.portfolio-UI-design .cryto-money {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(46.75, 63.1, 255) 0%, rgba(57, 72, 252, 0.6) 100%);
+  border-radius: 20px;
+  height: 660px;
+  overflow: hidden;
+  position: relative;
+  width: 1240px;
+}
+
+.portfolio-UI-design .group-3 {
+  height: 660px;
+  left: 52px;
+  position: absolute;
+  top: 0;
+  width: 702px;
+}
+
+.portfolio-UI-design .overlap-group-6 {
+  height: 660px;
+  position: relative;
+}
+
+.portfolio-UI-design .frame-34 {
+  background-image: url(../../../static/img/frame-43-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 660px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 504px;
+}
+
+.portfolio-UI-design .frame-35 {
+  background-image: url(../../../static/img/frame-40-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: var(--drop-shadow1);
+  height: 392px;
+  left: 92px;
+  position: absolute;
+  top: 191px;
+  width: 610px;
+}
+
+.portfolio-UI-design .frame-36 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 833px;
+  position: absolute;
+  top: 232px;
+}
+
+.portfolio-UI-design .frame-37 {
+  align-items: center;
+  background-color: #3c48d4;
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .yoga-space {
+  background-color: var(--dark-grey-purple);
+  border-radius: 20px;
+  height: 650px;
+  overflow: hidden;
+  position: relative;
+  width: 1240px;
+}
+
+.portfolio-UI-design .frame-38 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 50px;
+  position: absolute;
+  top: 216px;
+}
+
+.portfolio-UI-design .frame-39 {
+  align-items: center;
+  background-color: #8f8690;
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.portfolio-UI-design .group-4 {
+  height: 582px;
+  left: 534px;
+  position: absolute;
+  top: 31px;
+  width: 670px;
+}
+
+.portfolio-UI-design .overlap-group-7 {
+  height: 582px;
+  position: relative;
+}
+
+.portfolio-UI-design .frame-40 {
+  background-image: url(../../../static/img/frame-41-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 6px;
+  height: 350px;
+  left: 120px;
+  position: absolute;
+  top: 232px;
+  width: 550px;
+}
+
+.portfolio-UI-design .frame-41 {
+  background-image: url(../../../static/img/frame-40-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.portfolio-UI-design .about {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 900px;
+  left: 0;
+  position: absolute;
+  top: 900px;
+  width: 1440px;
+}
+
+.portfolio-UI-design .about-page {
+  background-color: #ffffff;
+  height: 900px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-UI-design .frame-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 79px;
+  left: 100px;
+  position: absolute;
+  top: 278px;
+}
+
+.portfolio-UI-design .i-am-an {
+  color: var(--black);
+  font-family: var(--lexend-68px-semibold-font-family);
+  font-size: var(--lexend-68px-semibold-font-size);
+  font-style: var(--lexend-68px-semibold-font-style);
+  font-weight: var(--lexend-68px-semibold-font-weight);
+  letter-spacing: var(--lexend-68px-semibold-letter-spacing);
+  line-height: var(--lexend-68px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.portfolio-UI-design .i-am-a-designer-who {
+  color: var(--black);
+  font-family: "Ubuntu", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.4px;
+  line-height: 30px;
+  position: relative;
+  width: 820px;
+}
+
+.portfolio-UI-design .ellipse-7 {
+  height: 820px;
+  left: 1440px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+
+.portfolio-UI-design .home-main {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+}
+
+.portfolio-UI-design .home-instance {
+  left: unset !important;
+  top: unset !important;
+}
+
+.portfolio-UI-design .navbar {
+  height: 247px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.portfolio-UI-design .static-navbar-instance {
+  height: 80px !important;
+  left: unset !important;
+  position: unset !important;
+  top: unset !important;
+  width: unset !important;
+}

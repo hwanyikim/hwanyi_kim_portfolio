@@ -1,0 +1,36 @@
+.menu {
+  height: 20px;
+  left: 20px;
+  position: relative;
+  width: 47px;
+}
+
+.menu .text-wrapper {
+  font-family: var(--ubuntu-18px-medium-font-family);
+  font-size: var(--ubuntu-18px-medium-font-size);
+  font-style: var(--ubuntu-18px-medium-font-style);
+  font-weight: var(--ubuntu-18px-medium-font-weight);
+  left: 0;
+  letter-spacing: var(--ubuntu-18px-medium-letter-spacing);
+  line-height: var(--ubuntu-18px-medium-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.menu.hover-state {
+  top: 60px;
+}
+
+.menu.default-state {
+  top: 20px;
+}
+
+.menu.hover-state .text-wrapper {
+  color: var(--dark-green);
+}
+
+.menu.default-state .text-wrapper {
+  color: var(--dark-sky-blue);
+  width: 50px;
+}
